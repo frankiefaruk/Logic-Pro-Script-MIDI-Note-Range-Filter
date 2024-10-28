@@ -1,4 +1,4 @@
-## MIDI Note Range Filter: A Simple Yet Powerful Tool
+## MIDI Note Range Filter
 
 **Subheading: Controlling Your Musical Palette**
 
